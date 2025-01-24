@@ -1,6 +1,2 @@
 # myCloset
-First HTML only project. A virtual closet for clothes I bought.
-More clothing brands in the future..
-CSS Integration coming soon..
-
-
+ignore the naming for now.. I have changed the  idea for this project to be a basic album page for my favourite singer
